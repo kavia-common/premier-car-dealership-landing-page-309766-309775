@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/premier-car-dealership-landing-page-309766-309775/car_dealership_frontend"
+}

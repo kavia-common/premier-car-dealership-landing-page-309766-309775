@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/premier-car-dealership-landing-page-309766-309775/car_dealership_frontend"
+}
